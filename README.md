@@ -1,10 +1,13 @@
-# Blank template
+# fresh project
 
-This is a blank project with a static html file.
+A Deno Fresh project!
 
-[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+### Usage
 
-## Resources
+Start the project:
 
-- [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
